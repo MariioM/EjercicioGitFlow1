@@ -13,7 +13,6 @@ public class Calculator {
 
         double result = num1 + num2;
         System.out.println("El resultado de la suma es: " + result);
-
         scanner.close();
     }
 }
